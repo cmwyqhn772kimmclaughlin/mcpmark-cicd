@@ -1,6 +1,4 @@
-const unusedVar = "this is unused";
-console.log("Hello, world");
-const message = "double quotes";
+const message = 'hello';
 function example() {
-  return "no semicolon"
+  return message;
 }
